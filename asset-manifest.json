@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/chandant9/MemeGenerator.git/static/css/main.c9db0580.chunk.css",
-    "main.js": "/chandant9/MemeGenerator.git/static/js/main.c9030842.chunk.js",
-    "main.js.map": "/chandant9/MemeGenerator.git/static/js/main.c9030842.chunk.js.map",
-    "runtime-main.js": "/chandant9/MemeGenerator.git/static/js/runtime-main.99c48739.js",
-    "runtime-main.js.map": "/chandant9/MemeGenerator.git/static/js/runtime-main.99c48739.js.map",
-    "static/js/2.7d69dd9c.chunk.js": "/chandant9/MemeGenerator.git/static/js/2.7d69dd9c.chunk.js",
-    "static/js/2.7d69dd9c.chunk.js.map": "/chandant9/MemeGenerator.git/static/js/2.7d69dd9c.chunk.js.map",
-    "index.html": "/chandant9/MemeGenerator.git/index.html",
-    "precache-manifest.eda45efa43e5308b0e88c58d8b24bfb0.js": "/chandant9/MemeGenerator.git/precache-manifest.eda45efa43e5308b0e88c58d8b24bfb0.js",
-    "service-worker.js": "/chandant9/MemeGenerator.git/service-worker.js",
-    "static/css/main.c9db0580.chunk.css.map": "/chandant9/MemeGenerator.git/static/css/main.c9db0580.chunk.css.map",
-    "static/js/2.7d69dd9c.chunk.js.LICENSE.txt": "/chandant9/MemeGenerator.git/static/js/2.7d69dd9c.chunk.js.LICENSE.txt"
+    "main.css": "/MemeGenerator/static/css/main.c9db0580.chunk.css",
+    "main.js": "/MemeGenerator/static/js/main.7087d617.chunk.js",
+    "main.js.map": "/MemeGenerator/static/js/main.7087d617.chunk.js.map",
+    "runtime-main.js": "/MemeGenerator/static/js/runtime-main.1022f422.js",
+    "runtime-main.js.map": "/MemeGenerator/static/js/runtime-main.1022f422.js.map",
+    "static/js/2.7d69dd9c.chunk.js": "/MemeGenerator/static/js/2.7d69dd9c.chunk.js",
+    "static/js/2.7d69dd9c.chunk.js.map": "/MemeGenerator/static/js/2.7d69dd9c.chunk.js.map",
+    "index.html": "/MemeGenerator/index.html",
+    "precache-manifest.a545fcd616703f276db1911580797df9.js": "/MemeGenerator/precache-manifest.a545fcd616703f276db1911580797df9.js",
+    "service-worker.js": "/MemeGenerator/service-worker.js",
+    "static/css/main.c9db0580.chunk.css.map": "/MemeGenerator/static/css/main.c9db0580.chunk.css.map",
+    "static/js/2.7d69dd9c.chunk.js.LICENSE.txt": "/MemeGenerator/static/js/2.7d69dd9c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.99c48739.js",
+    "static/js/runtime-main.1022f422.js",
     "static/js/2.7d69dd9c.chunk.js",
     "static/css/main.c9db0580.chunk.css",
-    "static/js/main.c9030842.chunk.js"
+    "static/js/main.7087d617.chunk.js"
   ]
 }
